@@ -1,0 +1,43 @@
+{
+  "title": "yaki udon noodles",
+  "servings": "2",
+  "ingredients": [
+    {
+      "ingredient": "2 packets udon noodles (total 13 oz vacuum packed noodles; see Note 1)"
+    },
+    {
+      "ingredient": "2½ cups stir fry vegetables  (chopped (bok choy, onions))"
+    },
+    { "ingredient": "2 stalks scallions (cut 2 inches long)" },
+    { "ingredient": "½ lb ground protein (tofu, egg, etc)" },
+    { "ingredient": "1 Tablespoon avocado oil" },
+    { "ingredient": "2½ Tablespoons dark soy sauce" },
+    { "ingredient": "2 Tablespoons woochester sauce" },
+    { "ingredient": "1 Tablespoon mirin" },
+    { "ingredient": "2 teaspoons brown sugar" },
+    { "ingredient": "½ teaspoon rice wine vinegar" }
+  ],
+  "steps": [
+    {
+      "step": "Sauce: Mix all the ingredients for the sauce in a small bowl and set aside."
+    },
+    {
+      "step": "Remove your udon noodles from its package and add it to a pot of boiling water. Frozen udon noodles can be added directly to the pot of boiling water. Stir gently until your udon noodles are separated and pliable. This should take 1 - 2 minutes."
+    },
+    {
+      "step": "Rinse and drain your noodles under cold water. If not using right away, drizzle on a little bit of oil to keep them from sticking."
+    },
+    {
+      "step": "Heat your pan over high heat and add the oil."
+    },
+    {
+      "step": "Add the vegetables and stir fry until meat is fully cooked and vegetables are soft."
+    },
+    {
+      "step": "Add in the noodles, sauce, and scallions."
+    },
+    {
+      "step": "Continue stir frying for about 3 minutes or until well combined."
+    }
+  ]
+}
