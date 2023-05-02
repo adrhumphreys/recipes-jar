@@ -41,6 +41,7 @@ export const getRecipes = (): RecipeData[] => {
     };
   });
 };
+
 export const getBySlug = async (slug: string): Promise<RecipeData> => {
   const realSlug = slug.replace(/\.json$/, "");
   const fullPath = join(directory, `${realSlug}.json`);
