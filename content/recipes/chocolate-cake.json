@@ -1,0 +1,69 @@
+{
+  "title": "chocolate cake",
+  "slug": "chocolate-cake",
+  "servings": "6-8",
+  "tags": ["Parts", "Desserts"],
+  "ingredients": [
+    {
+      "ingredient": "250g unsalted butter",
+      "context": "at room temperature, cut into 2cm cubes, plus extra for greasing"
+    },
+    {
+      "ingredient": "200g dark cooking chocolate",
+      "context": "(70% cocoa solids), chopped into 2cm pieces"
+    },
+    {
+      "ingredient": "1½ tsp instant coffee granules, dissolved in 350ml boiling water"
+    },
+    {
+      "ingredient": "250g caster sugar"
+    },
+    {
+      "ingredient": "2 large eggs",
+      "context": "lightly beaten"
+    },
+    {
+      "ingredient": "2 tsp vanilla extract"
+    },
+    {
+      "ingredient": "240g self-raising flour"
+    },
+    {
+      "ingredient": "30g cocoa powder",
+      "context": "Dutch-processed"
+    },
+    {
+      "ingredient": "¼ tsp salt"
+    }
+  ],
+  "steps": [
+    {
+      "step": "Preheat the oven to 170°C/150°C."
+    },
+    {
+      "step": "Grease a 23cm round cake tin and line with baking parchment, then set aside."
+    },
+    {
+      "step": "Place the butter, chocolate and hot coffee in a large heatproof bowl and mix well until everything is melted, combined and smooth."
+    },
+    { "step": "Whisk in the sugar by hand until dissolved." },
+    {
+      "step": "Add the eggs and vanilla and whisk again until the mix is thoroughly combined and smooth."
+    },
+    {
+      "step": "Sift the flour, cocoa powder and salt together into a bowl and whisk this into the melted chocolate mix."
+    },
+    {
+      "step": "The batter here is liquid, but don’t think you have missed something: this is how it should be. Pour the mixture into the prepared cake tin."
+    },
+    {
+      "step": "Bake for 60 minutes, or until the cake is cooked and a skewer inserted into the centre comes out clean or with just a few dry crumbs attached. The top will form a crust and crack a little, but don’t worry, this is expected."
+    },
+    {
+      "step": "Leave the cake to cool for 20 minutes before removing from the tin, and set aside until completely cool."
+    },
+    {
+      "step": "You can dust with icing sugar or cocoa. This goes well with a chocolate ganache."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "title": "garlic butter fried tofu",
+  "slug": "garlic-butter-tofu",
+  "servings": "2",
+  "tags": ["Mains"],
+  "ingredients": [
+    {
+      "ingredient": "1 block firm tofu"
+    },
+    {
+      "ingredient": "Cornstarch",
+      "context": "Or potato starch"
+    },
+    {
+      "ingredient": "1 tsp sugar"
+    },
+    {
+      "ingredient": "1.5 tbsp soy sauce"
+    },
+    {
+      "ingredient": "1.5 tbsp mirin"
+    },
+    {
+      "ingredient": "1 clove garlic"
+    },
+    {
+      "ingredient": "Black pepper"
+    },
+    {
+      "ingredient": "10g butter"
+    },
+    {
+      "ingredient": "Green onions (for topping)"
+    },
+    {
+      "ingredient": "Seasame seeds (for topping)"
+    }
+  ],
+  "steps": [
+    {
+      "step": "Cut tofu into cubes and cover with cornstarch "
+    },
+    {
+      "step": "Fry tofu "
+    },
+    {
+      "step": "Combine sauces and sugar then pour onto the tofu when it is crunchy"
+    },
+    {
+      "step": "Add butter on top of tofu and melt in the pan while still hot"
+    }
+  ]
+}
