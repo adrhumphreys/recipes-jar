@@ -7,11 +7,13 @@ const mono = IBM_Plex_Mono({
   variable: "--font-ibm-flex-mono",
   weight: ["400", "500", "700"],
   display: "swap",
+  subsets: ["latin"],
 });
 const merriweather = Merriweather({
   variable: "--font-merriweather",
   weight: "900",
   display: "swap",
+  subsets: ["latin"],
 });
 
 export const metadata = {
