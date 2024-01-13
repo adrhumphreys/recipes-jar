@@ -1,0 +1,50 @@
+{
+  "title": "pasta e ceci",
+  "slug": "pasta-e-ceci",
+  "servings": "4",
+  "tags": ["Parts", "Mains", "Pasta"],
+  "ingredients": [
+    {
+      "ingredient": "200g pasta",
+      "context": "(small shells/bows)"
+    },
+    {
+      "ingredient": "1 tin of chickpeas (drained)",
+      "context": "can substitute with other beans"
+    },
+    {
+      "ingredient": "400ml broth"
+    },
+    {
+      "ingredient": "A handful of cherry tomatoes",
+      "content": "Around a packet (>200g)"
+    },
+    {
+      "ingredient": "~7 cloves of garlic"
+    },
+    {
+      "ingredient": "2 tbsp fresh chopped chives",
+      "content": "optional"
+    },
+    {
+      "ingredient": "Olive oil, salt, pepper"
+    }
+  ],
+  "steps": [
+    {
+      "step": "Put the tomatoes and garlic in an oven proof dish with a dash of salt and cover in olive oil."
+    },
+    {
+      "step": "Roast at 175c for 45-55 minutes."
+    },
+    {
+      "step": "Cook your pasta, then ~4 minutes before it's ready add in your chickpeas."
+    },
+    {
+      "step": "Drain the pasta."
+    },
+    {
+      "step": "Spoon some pasta into a bowl, then add the tomatoes, fill the bowl up with some broth and then pour over some olive oil and season to taste."
+    }
+  ]
+}
