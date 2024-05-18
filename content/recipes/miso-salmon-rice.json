@@ -1,0 +1,49 @@
+{
+  "title": "miso salmon rice",
+  "slug": "miso-salmon-rice",
+  "servings": "2",
+  "tags": ["Mains"],
+  "ingredients": [
+    {
+      "ingredient": "2 cups rice"
+    },
+    {
+      "ingredient": "300g Salmon"
+    },
+    {
+      "ingredient": "1/2 Onion"
+    },
+    {
+      "ingredient": "2.5 tablespoon miso"
+    },
+    {
+      "ingredient": "2 tablespoon mirin"
+    },
+    {
+      "ingredient": " ½ table spoon sugar"
+    }
+  ],
+  "steps": [
+    {
+      "step": "Put rice and water into rice cooker"
+    },
+    {
+      "step": "Make the sauce, mix in mirin, miso, sugar"
+    },
+    {
+      "step": "Add 2/3rds of sauce into rice and mix in"
+    },
+    {
+      "step": "Slice onion and mix in with rice"
+    },
+    {
+      "step": "Place salmon on top of rice, pour the remaining sauce on top of the salmon"
+    },
+    {
+      "step": "Place vegetables in steam basket above"
+    },
+    {
+      "step": "Put rice cooker on"
+    }
+  ]
+}
